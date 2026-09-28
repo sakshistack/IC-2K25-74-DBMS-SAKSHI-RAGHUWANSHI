@@ -1,0 +1,2 @@
+# IC-2K25-74-DBMS-SAKSHI-RAGHUWANSHI
+DBMS lab problems 
